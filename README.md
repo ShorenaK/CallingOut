@@ -18,7 +18,7 @@ To ensure a safe and respectful environment, the app will include a feature to b
 The app focuses on creating companionship not dating, not traditional friendship, but a unique type of supportive relationship. It's designed for people to text and motivate each other, helping them avoid loneliness and offering mutual emotional support.
 
 This is for individuals who may not be ready for a serious relationship, such as those living far apart, recently divorced, widower etc.. or simply not looking for something serious. Instead, the goal is to have meaningful connections that provide encouragement and moral support.
-
+notes : To write A Farewell Letter --- 
 Below Content Genrated by ChatGBT
 Proposed Integration into the CallingOut App
 User Profiles Focused on Companionship:
